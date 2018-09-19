@@ -1,6 +1,6 @@
 package cofh.api.energy;
 
-import net.minecraft.util.EnumFacing
+import net.minecraft.util.EnumFacing;
 
 /**
  * Implement this interface on Tile Entities which transport energy.
